@@ -1,0 +1,1 @@
+A simple practice project for me to refresh myself on html practices.
